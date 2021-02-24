@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Welcome to my github with some projects that I have worked on
-- I am currently a developer & founder of EVNT, and apart of [RigglDev](https://github.com/riggldev) :D
+- I am a founder of EVNT, and apart of [RigglDev](https://github.com/riggldev) :D
 
 - You can contact me on discord: Mal#0221
 
