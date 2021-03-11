@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Welcome to my github with some projects that I have worked on
-- I am a founder of EVNT, and apart of [RigglDev](https://github.com/riggldev) :D
+- Currently making [Ayrie](https://discord.gg/Un93Nkbgcd)!
 
 - You can contact me on discord: Mal#0221
 
