@@ -7,4 +7,4 @@
 
 ### Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maldiscord&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/maldsicord/maldiscord/master/github-metrics.svg">
