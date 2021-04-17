@@ -7,4 +7,4 @@
 
 ### Stats
 
-<img src="https://raw.githubusercontent.com/maldsicord/maldiscord/master/github-metrics.svg">
+<img src="https://github.com/maldiscord/maldiscord/raw/master/github-metrics.svg"/>
